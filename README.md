@@ -7,7 +7,7 @@ This module allows you to run OpenBabel CLI commands in python.
 <div align="center">
 
 [![Status](https://img.shields.io/badge/Status-Production-brightgreen)](https://github.com/AbdullElsayed/OpenBabelPythonInterface)
-[![Latest Version](https://img.shields.io/github/v/release/AbdullElsayed/OpenBabelPythonInterface?color=crimson&include_prereleases&label=Latest%20Version)](https://github.com/AbdullElsayed/OpenBabelPythonInterface)
+[![Latest Version](https://img.shields.io/github/v/release/AbdullElsayed/OpenBabelPythonInterface?color=crimson&include_prereleases&label=Latest%20Version)](https://github.com/AbdullElsayed/OpenBabelPythonInterface/releases/v1.0.3)
 [![MIT License](https://img.shields.io/github/license/AbdullElsayed/OpenBabelPythonInterface?label=License)](https://github.com/AbdullElsayed/OpenBabelPythonInterface/blob/main/LICENSE)
 
 </div>
